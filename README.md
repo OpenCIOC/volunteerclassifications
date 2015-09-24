@@ -6,7 +6,7 @@ An additional project is available for lists used to help describing organizatio
 
 ### File Formats ###
 
-All lists are provided in CSV (comma-seperated value) files, including a header row which describes the fields. Most files have a *Code* field followed by one or more *Name* fields which are denoted in brackets by the language-specific *culture code* such as en-CA (Canadian English) or fr-CA (Canadian French).
+All lists are provided in CSV (comma-seperated value) files, including a header row which describes the fields. Most files have a *Code* field followed by one or more *Name* fields which are denoted in brackets by the language-specific *culture code* such as en-CA (Canadian English) or fr-CA (Canadian French). Those using CIOC Software or another SQL Server-driven application may find the SQL-based data and table files in the sql folder useful. There are also plain-text files containing names only; these are intended to drive the translation project, but may be useful for some projects.
 
 Want to use this project, but wish another file format was available? We're happy to consider releasing the data in anther format such (e.g. XML) if there is a demand. Just ask!
 
@@ -25,7 +25,7 @@ Note that it is expected that some of these data points require elaboration with
 
 ### Languages and Translations ###
 
-The lists are currently available in Canadian English and Canadian French. This project welcomes the contribution of translations to other languages or language variants. Please contact the project owner to discuss the requirements for contributing a new translation.
+The lists are currently available in Canadian English and Canadian French. This project welcomes the contribution of translations to other languages or language variants. The txt directory contains text versions of the names of items, used to manage the [translation project on Transifex](https://www.transifex.com/open-cioc/cioc-volunteer-classifications). Contributions of translations in other languages are welcome - please use the Transifex project to contribute.
 
 ### License and Attribution ###
 
