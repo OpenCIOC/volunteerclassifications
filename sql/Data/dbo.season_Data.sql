@@ -1,0 +1,5 @@
+INSERT INTO [dbo].[season] ([Code], [Name (en-CA)], [Name (fr-CA)], [Groups]) VALUES ('FALL', N'Fall', N'Automne', NULL)
+INSERT INTO [dbo].[season] ([Code], [Name (en-CA)], [Name (fr-CA)], [Groups]) VALUES ('SPRING', N'Spring', N'Printemps', NULL)
+INSERT INTO [dbo].[season] ([Code], [Name (en-CA)], [Name (fr-CA)], [Groups]) VALUES ('SUMMER', N'Summer', N'Été', NULL)
+INSERT INTO [dbo].[season] ([Code], [Name (en-CA)], [Name (fr-CA)], [Groups]) VALUES ('WINTER', N'Winter', N'D''hiver', NULL)
+INSERT INTO [dbo].[season] ([Code], [Name (en-CA)], [Name (fr-CA)], [Groups]) VALUES ('YEARROUND', N'Year Round', N'Toute l''année', NULL)
