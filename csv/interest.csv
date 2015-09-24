@@ -1,0 +1,138 @@
+Code,Name (en-CA),Name (fr-CA),Groups
+ADVOCACY,Advocacy,Défense des droits,LEGAL
+ANIMALS,Animal Services,Animaux,NATURE
+ARTSCRAFTS,Arts & Crafts,Art et artisanat,ARTS
+AUDOVISUAL,Audio / Visual Production,Production audiovisuelle,ARTS
+AUTO,Auto Services,Services automobiles,TECHNOLOGY
+BOARD,Board of Directors,Conseil d'administration,ADMIN
+BUILDING,Building & Construction,Bâtiment et construction,BUILDING ; LABOUR
+CAMP,Youth & Activity Camp Support,Animation de camps et d'activités jeunesse,CHILDREN
+CARPENTRY,Carpentry & Woodwork,Menuiserie et travail du bois,BUILDING
+CHILDCARE,Child Care,Garde d'enfants,CHILDREN ; HUMANSERVICES
+CHILDFAMILY,Child & Family Services,Enfance et famille,CHILDREN ; HUMANSERVICES
+CLEANING,Cleaning Services,Nettoyage,BUILDING
+CLERICAL,Clerical / Typing / Filing,Secrétariat,OFFICE
+COMMITTEE,Committees,Comités,ADMIN
+COMMUNITY,Community / Neighbourhood Volunteering,Bénévolat dans la communauté / voisinage,COMMUNITY
+COMPUTERHW,Computers & IT (Hardware Maintenance),Informatique et technologie de l'information (maintenance du matériel),TECHNOLOGY
+COMPUTERNET,Computers & IT (Network Engineering),Informatique et technologie de l'information (ingénierie réseau),TECHNOLOGY
+COMPUTERSOFT,Computers & IT (Software Related),Informatique et technologie de l'information (logiciel),TECHNOLOGY
+COMPUTERSUPPORT,Computers & IT (User Support and Training),Informatique et technologie de l'information (soutien et formation),TECHNOLOGY ; TRAINING
+COUNSELING,Counselling,Counseling,HUMANSERVICES
+CULTURE,Culture & Heritage,Culture et patrimoine,ARTS
+DEVELPMENTAL,Behavioural and Developmental Support Services,Soutien au comportement et au développement,HUMANSERVICES ; SPECIALNEEDS
+DISASTER,Disaster Planning & Assistance,Planification et aide en cas de sinistre,EMERGENCY
+DISTRESS,Distress / Crisis / Bereavement Support,Soutien en cas de détresse/crise/deuil,EMERGENCY ; HUMANSERVICES
+DONATE-APPLIANCES,Donations - Small Household Appliances,Dons - Petit électroménager,DONHOUSE
+DONATE-BOOKHC,"Donations - Books, Hardcover",Dons - Livres reliés,DONBOOK
+DONATE-BOOKRF,"Donations - Books, Reference",Dons - Livres de référence,DONBOOK
+DONATE-BOOKSC,"Donations - Books, Softcover",Dons - Livres de poche,DONBOOK
+DONATE-CLOTHBABY,"Donations - Clothing, Babies",Dons - vêtements pour bébés,DONCLOTH
+DONATE-CLOTHCHILD,"Donations - Clothing, Children's",Dons - vêtements pour enfants,DONCLOTH
+DONATE-CLOTHMEN,"Donations - Clothing, Men's",Dons - vêtements pour hommes,DONCLOTH
+DONATE-CLOTHWMN,"Donations - Clothing, Women's",Dons - vêtements pour femmes,DONCLOTH
+DONATE-CRAFT,Donations - Craft Supplies,Dons - Fournitures d'artisanat,DONSUPPLY ; DONREC
+DONATE-FOODFRESH,"Donations - Food, Fresh Items",Dons - Aliments frais,DONFOOD
+DONATE-FOODNP,"Donations - Food, Non-Perishable Items",Dons - Aliments non périssables,DONFOOD
+DONATE-FURNHH,"Donations - Furniture, Office",Dons - meubles de bureau,DONFURN
+DONATE-FURNOFFICE,"Donations - Furniture, Household",Dons - meubles de maison,DONFURN
+DONATE-GCCLOTH,"Donations - Gift Cards, Clothing",Dons - Cartes cadeaux pour vêtements,DONCLOTH ; DONGC
+DONATE-GCFUEL,"Donations - Gift Cards, Fuel",Dons - Cartes cadeaux pour carburant,DONGC
+DONATE-GCGROCERY,"Donations - Gift Cards, Grocery",Dons - Cartes cadeaux pour épicerie,DONFOOD ; DONGC
+DONATE-GCREC,"Donations - Gift Cards, Recreation",Dons - Cartes cadeaux pour loisirs,DONGC ; DONREC
+DONATE-GCREST,"Donations - Gift Cards, Restaurant",Dons - Cartes cadeaux pour restaurant,DONFOOD ; DONGC
+DONATE-LINEN,Donations - Bedding / Linens,Dons - Literie et linge,DONHOUSE
+DONATE-MAGAZINE,Donations - Magazines,Dons - magazines,DONBOOK
+DONATE-PETFOOD,Donations - Pet Food,Dons - Aliments pour animaux,DONPET
+DONATE-PETSUPPLIES,Donations - Pet Supplies,Dons - Fournitures pour animaux,DONPET
+DONATE-SPORTING,Donations - Sporting Goods,Dons - Articles de sport,DONREC
+DONATE-STATIONERY,Donations - Stationery Supplies,Dons - papeterie,DONSUPPLY
+DONATE-TOILETRIES,Donations - Toiletries,Dons - Articles de toilettes,DONHOUSE
+DONATE-TOY,Donations - Children's Toys,Dons - Jouets,DONREC
+EDUCATIONADULT,Education Support (Post-Secondary),Soutien à l'éducation (postsecondaire),TRAINING
+EDUCATIONCHILDYOUTH,Education Support (Elementary / Secondary),Soutien à l'éducation (élémentaire/secondaire),CHILDREN ; TRAINING
+EDUCATIONEARLY,Education Support (Early Years),Soutien à l'éducation (petite enfance),CHILDREN ; TRAINING
+ELECTRICAL,Electrician,Électricien,BUILDING
+EMERGENCY,Emergency & Response,Intervention d'urgence,EMERGENCY
+EMPLOYMENT,Employment / Career Guidance,Emploi et orientation professionnelle,TRAINING
+ESTHETIC,Esthetic Services,Services esthétiques,ARTS ; HUMANSERVICES
+EVENT,Event Coordination & Support,Coordination et soutien d'évènement,PLANNING ; EVENT
+FALL,Seasonal Support (Fall),Soutien saisonnier (automne),SEASONAL
+FASHION,Fashion / Needlecraft,Mode / Travaux d'aiguille,ARTS
+FINANCE,Finance / Cash Handling,Finance / Maniement d'espèces,FUNDRAISING ; OFFICE
+FITNESS,Physical Fitness & Exercise,Conditionnement physique et exercices,RECREATION
+FLOORING,Flooring,Revêtement de sol,BUILDING ; LABOUR
+FOOD,Food Services / Nutrition,Alimentation / Nutrition,BASICNEEDS ; HUMANSERVICES
+FRIEND,Friend / Penpal,Amitié / Correspondance,HUMANSERVICES
+FUNDRAISING,Fundraising / Canvassing,Collecte de fonds / Sollicitation,SALES
+GAMES,Games,Jeux,RECREATION
+GARDEN,Gardening / Yard Work,Jardinage / Travaux de cour,NATURE ; BUILDING ; LABOUR
+GRAPHICDESIGN,Graphic Design,Création graphique,ARTS ; TECHNOLOGY
+GROUP,Group / Family Volunteering,Bénévolat en groupe / en famille,GROUP
+GUIDE,Guide / Greeter,Guide / Accueil,COMMUNICATION ; TRAINING
+HARVEST,Harvesting Assistance,Aide aux récoltes,NATURE ; BASICNEEDS ; LABOUR
+HEALTH,Health Care,Soins de santé,BASICNEEDS
+HISTORICAL,Historical / Archival Activities,Histoire / Archives,OFFICE ; TRAINING
+HOLIDAY,Holiday / Festive Volunteering,Fêtes / Célébrations,SEASONAL ; EVENT
+HOSPICE,Hospice Care,Soins palliatifs,EMERGENCY ; HUMANSERVICES
+HR,Human Resources / Interviewing,Ressources humaines / Entrevue,OFFICE
+INFORMREFERRAL,Information & Referral Services,Information et référence,COMMUNICATION ; HUMANSERVICES ; LEGAL ; TRAINING
+INTERIORDECO,Interior Decoration,Décoration d'intérieur,ARTS
+INVENTORY,Shelf Stocking / Warehousing / Inventory,Mise en rayon / Entreposage / Inventaire,LABOUR ; SALES
+JOURNALISM,Journalism,journalisme,ARTS ; COMMUNICATION
+LABOUR,General Manpower / Physical Labour,Main d'œuvre générale / Travail physique,LABOUR
+LEGAL,Legal & Law Services / Justice / Probation,Services juridiques et légaux / Justice / Probation,LEGAL
+LIBRARY,Library Services,Bibliothèques,ARTS ; COMMUNICATION ; OFFICE ; TRAINING
+LIFESKILLS,Life Skills Support,Soutien des aptitudes à la vie quotidienne,HUMANSERVICES ; TRAINING
+MAINTENANCE,Maintenance / Repair,Entretien / Réparation,BUILDING
+MARKETING,Marketing & Promotions,Marketing et promotion,COMMUNICATION ; OFFICE
+MENTALHEALTH,Mental Health / Addictions,Santé mentale / Dépendances,BASICNEEDS ; EMERGENCY
+MENTOR,Mentorship / Leadership,Mentorat / leadership,OFFICE ; TRAINING
+MOVING,Moving Assistance,Aide au déménagement,BASICNEEDS ; LABOUR
+MUSICDRAMA,Music & Performing Arts,Musique et arts du spectacle,ARTS
+NATURE,Nature / Environment,Nature / Environnement,NATURE
+NEWCOMER,Newcomer Assistance,Aide aux nouveaux arrivants,COMMUNICATION ; HUMANSERVICES ; LANGUAGES ; TRAINING
+OFFICE,Office Administration,Administration de bureau,ADMIN ; OFFICE
+OUTING,Field Trip Aide / Community Outing Support,Aide aux excursions / Soutien aux sorties communautaires,HUMANSERVICES
+OUTREACH,Community Outreach,Relations communautaires,COMMUNICATION ; TRAINING
+PAINTING,Painting / Wallpapering,Peinture / Tapissage,BUILDING ; LABOUR
+PARENTING,Parenting / Foster Care Support,Soutien aux parents / familles d'accueil,CHILDREN ; GROUP ; HUMANSERVICES
+PERSONAL,Personal Support,Soutien personnel,BASICNEEDS ; HUMANSERVICES
+PHOTOGRAPHY,Photography,Photographie,ARTS
+PLUMBING,Plumbing,Plomberie,BUILDING
+POVERTY,Poverty & Homelessness,Pauvreté et itinérance,BASICNEEDS
+PROGRAMSUPPORT,Program Coordination / Support,Coordination / Soutien de programme,ADMIN ; HUMANSERVICES
+READING,Reading / Literacy,Lecture / alphabétisation,TRAINING
+RECEPTION,Reception Support,Soutien à l'accueil,OFFICE
+REGISTRATION,Registration,Inscription,FUNDRAISING ; EVENT
+REHABILITATION,Rehabilitation Support,Soutien à la réadaptation,BASICNEEDS ; HUMANSERVICES
+RESEARCH,Research / Evaluation,Recherche / évaluation,ADMIN ; OFFICE ; PLANNING
+RESPITE,Respite Services,Services de répit,HUMANSERVICES
+SALES,Customer / Sales Services,Consommateurs / Services des ventes,OFFICE ; SALES
+SECURITY,Security / Parking / Traffic,Sécurité / Stationnement / Circulation,EVENT
+SENIORS,Senior's Activity Support,Soutien aux activités pour personnes âgées,HUMANSERVICES
+SHELTER,Shelter Coordination Support,Soutien à la coordination des refuges,BASICNEEDS ; PLANNING
+SOCIAL,Social Interaction,Interaction sociale,HUMANSERVICES
+SOCIALMEDIA,Social Media,Médias sociaux,COMMUNICATION ; TECHNOLOGY
+SPECIALNEEDS,Special Needs / Differently Abled,Besoins spéciaux / Handicaps,SPECIALNEEDS
+SPEECHHEARING,Speech & Hearing Support,Soutien à la parole et l'audition,HUMANSERVICES ; SPECIALNEEDS
+SPORTSREC,Recreation & Sports,Loisirs et sports,RECREATION
+SPRING,Seasonal Support (Spring),Soutien saisonnier (printemps),SEASONAL
+STUDENTPLACEMENT,Student Placement,Placement d'étudiants,CHILDREN ; TRAINING
+SUMMER,Seasonal Support (Summer),Soutien saisonnier (été),SEASONAL
+SUPPORTGROUP,Support Group Facilitation,Animation de groupe de soutien,COMMUNICATION ; HUMANSERVICES
+TELEPHONE,Telephone Communication,Communication par téléphone,COMMUNICATION ; OFFICE
+THERAPY,Therapy,Thérapie,BASICNEEDS ; HUMANSERVICES
+TRADE,General Trade-Related,Métiers spécialisés,BUILDING ; LABOUR
+TRAINING,Education Support (Training Programs),Soutien à l'éducation (programmes de formation),TRAINING
+TRANSLATION,Translation / Languages / Interpretation,Traduction / langues / interprétation,LANGUAGES
+TRANSPORTATION,Transportation / Driver / Delivery,Transport / Chauffeur / Livraison,BASICNEEDS
+TUTORING,Education Support (Tutoring / Instruction),Soutien à l'éducation (tutorat / instruction),TRAINING
+VIRTUAL,Volunteer from Home / Virtual,Bénévolat à domicile / virtuel,VIRTUAL
+VISUALIMPAIRMENT,Support for Visual Impairments,Soutien aux déficiences visuelles,HUMANSERVICES ; SPECIALNEEDS
+VOLUNTEERCOORD,Volunteer Coordination,Coordination des bénévoles,PLANNING
+WEB,Website Design,Création de site web,ARTS ; TECHNOLOGY
+WINTER,Seasonal Support (Winter),Soutien saisonnier (hiver),SEASONAL
+WRITING,Writing / Editing,Rédaction / révision,COMMUNICATION ; OFFICE
+YOUTH,Youth Services,Services à la jeunesse,CHILDREN
+YOUTHENGAGE,Youth Engagement,Engagement des jeunes,CHILDREN

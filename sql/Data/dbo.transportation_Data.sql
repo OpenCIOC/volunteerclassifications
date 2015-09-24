@@ -1,0 +1,5 @@
+INSERT INTO [dbo].[transportation] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('CARNEEDED', N'Car Required', N'Voiture requise')
+INSERT INTO [dbo].[transportation] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('NEARTRANSIT', N'Near public transit', N'Près des transports en commun')
+INSERT INTO [dbo].[transportation] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('TRANSPORTATIONGIVEN', N'Transportation Provided', N'Moyen de transport fourni')
+INSERT INTO [dbo].[transportation] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('CHAUFFERLICENSE', N'Chauffeur License required', N'Permis de conduire pour les chauffeurs requis')
+INSERT INTO [dbo].[transportation] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('LICENSEREQUIRED', N'Driver License Required', N'Permis de conduire requis')

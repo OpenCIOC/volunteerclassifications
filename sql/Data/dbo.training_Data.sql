@@ -1,0 +1,6 @@
+INSERT INTO [dbo].[training] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('ONGOING', N'Training on-going', N'Formation en permanence')
+INSERT INTO [dbo].[training] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('ONTHEJOB', N'Training on the job', N'Formation en cours d''emploi')
+INSERT INTO [dbo].[training] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('ORIENTATION', N'Orientation', N'Orientation')
+INSERT INTO [dbo].[training] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('PROVIDED', N'Training is provided', N'Formation fournie')
+INSERT INTO [dbo].[training] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('REQUIRED', N'Training is required', N'Formation requise')
+INSERT INTO [dbo].[training] ([Code], [Name (en-CA)], [Name (fr-CA)]) VALUES ('SCHEDULED', N'Scheduled training', N'Formation prévue')
