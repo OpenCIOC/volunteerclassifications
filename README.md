@@ -1,12 +1,12 @@
 ## CIOC Open Volunteer Classifications ##
 
-This project includes the summary of contributions from the developers and users of [CIOC Software](www.cioc.ca). By providing these values for anyone to use, we (the original content creators) hope to make it easier to find common ways to describe and share Volunteer Positions.
+This project includes the summary of contributions from the developers and users of CIOC Software as part of the [OpenCIOC Project](http://www.opencioc.org). By providing these values for anyone to use, we (the original content creators) hope to make it easier to find common ways to describe and share Volunteer Positions.
 
 An additional project is available for lists used to help describing organization, service and contact records. It is available at https://github.com/OpenCIOC/communityinfoclassifications
 
 ### File Formats ###
 
-All lists are provided in CSV (comma-seperated value) files, including a header row which describes the fields. Most files have a *Code* field followed by one or more *Name* fields which are denoted in brackets by the language-specific *culture code* such as en-CA (Canadian English) or fr-CA (Canadian French). Those using CIOC Software or another SQL Server-driven application may find the SQL-based data and table files in the sql folder useful. There are also plain-text files containing names only; these are intended to drive the translation project, but may be useful for some projects.
+All lists are provided in CSV (comma-seperated value) files, including a header row which describes the fields. Most files have a *Code* field followed by one or more *Name* fields which are denoted in brackets by the language-specific *culture code* such as en-CA (Canadian English) or fr-CA (Canadian French).
 
 Want to use this project, but wish another file format was available? We're happy to consider releasing the data in anther format such (e.g. XML) if there is a demand. Just ask!
 
@@ -21,7 +21,7 @@ Want to use this project, but wish another file format was available? We're happ
  - **Training** (training.csv) indicates whether training is required or offered
  - **Transportation** (transportation.csv) indicates whether there are specific requirements around transportation (for example needing a driving or chauffeur license) or special transportation considerations (such as being near a public transit route)
 
-Note that it is expected that some of these data points require elaboration within any target system that uses them. For example, there is likely to be more information required about Skills and Experience, Suitability, and Training than what can be covered by a per-defined checklist.
+Note that it is expected that some of these data points require elaboration within any target system that uses them. For example, there is likely to be more information required about Skills and Experience, Suitability, and Training than what can be covered by a pre-defined checklist.
 
 ### Languages and Translations ###
 
